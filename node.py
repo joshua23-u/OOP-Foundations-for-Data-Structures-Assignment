@@ -4,8 +4,7 @@ class Node:
         
         self.data = data
         self.next = None
-
-
+        
 #creation and linking of 3 nodes
 if __name__ == "__main__":
     node1 = Node(10)
